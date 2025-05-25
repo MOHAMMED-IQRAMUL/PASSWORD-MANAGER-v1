@@ -28,7 +28,7 @@ A simple and beautiful password manager built with **React** and **Tailwind CSS*
 1. Clone the Repository
 
     ```sh
-    git clone https://github.com/Mohammed-Iqramul/Password Manager.git
+    git clone https://github.com/MOHAMMED-IQRAMUL/PASSWORD-MANAGER-v1
     cd password-manager
     ```
 
