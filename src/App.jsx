@@ -1,6 +1,6 @@
 import './App.css'
 import Navbar from './components/Navbar'
-import Maneger from './components/Maneger'
+import Manager from './components/Manager'
 import Foooter from './components/Foooter'
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <Maneger />
+      <Manager />
       <Foooter />
     </>
   )

@@ -3,7 +3,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { v4 as uuidv4 } from 'uuid';
 
-const Maneger = () => {
+const Manager = () => {
     const [form, setForm] = useState({ url: "", user: "", pass: "" })
     const [data, setData] = useState([])
     const [val, setval] = useState("")
@@ -198,4 +198,4 @@ const Maneger = () => {
     )
 }
 
-export default Maneger
+export default Manager
